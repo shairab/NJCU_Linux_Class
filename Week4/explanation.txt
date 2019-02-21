@@ -1,0 +1,1 @@
+Files and directories are permanently deleted with the rm command. No dialog box pops up to confirm the decision either. Users can easily delete important system data.
